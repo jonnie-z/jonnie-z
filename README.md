@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jonnie-z (David J. Sellinger)
-- 👀 I’m interested in ... languages (German, French, Swedish, Japanese, Spanish, Esperanto [if I'm feeling generous]), computer science, political and queer theory, arts and crafts (cross-stitching, weaving, sewing).
-- 🌱 I’m currently learning ... Salesforce, Python.
+- 👀 I’m interested in ... languages (German, French, Esperanto, Spanish, Italian, Norwegian, Japanese), computer science, political and queer theory, arts and crafts (cross-stitching, weaving, sewing).
+- 🌱 I’m currently learning ... Salesforce, C#, WebDesign.
 - 📫 How to reach me ... david.sellinger@revature.net; jonnie@jonniez.com
 
 <!---
