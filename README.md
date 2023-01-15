@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jonnie-z
 - 👀 I’m interested in ... languages (German, French, Esperanto, Spanish, Italian, Norwegian, Japanese), computer science, political and queer theory, arts and crafts (cross-stitching, weaving, sewing).
-- 🌱 I’m currently learning ... Salesforce, C#, WebDesign.
+- 🌱 I’m currently learning ... Salesforce, C#, WebDesign, Python.
 - 📫 How to reach me ... jonnie@jonniez.com
 
 <!---
