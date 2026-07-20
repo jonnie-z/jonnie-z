@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @jonnie-z
-- 👀 I’m interested in ... languages (German, French, Esperanto, Swedish, Spanish, Italian, Japanese, Portuguese, Ido), computer science, political and queer theory, arts and crafts (cross-stitching, weaving, sewing).
+- 👀 I’m interested in ... languages (German, French, Esperanto, Spanish, Swedish, Italian, Catalan, Japanese, Ukrainian, Taiwanese Mandarin, Portuguese, Romanian), computer science, political and queer theory, arts and crafts (cross-stitching, weaving, sewing).
 - 🌱 I’m currently learning ... C#, Web Dev (React).
 - 📫 How to reach me ... jonnie@jonniez.com
